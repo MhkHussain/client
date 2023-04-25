@@ -1,0 +1,4 @@
+--hover-color : #006A4E (bottle green)
+--light-theme: #2E8B57 (sea green)
+
+

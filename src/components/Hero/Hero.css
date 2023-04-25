@@ -1,0 +1,12 @@
+.hero__main{
+    height:80vh;
+}
+
+.hero__img{
+    height: 400px;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.hero_text{
+    line-height: 30px;
+}

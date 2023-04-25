@@ -1,0 +1,9 @@
+.footer__main{
+    background-color: black !important;
+    color: white;
+}
+
+.email__inp{
+    border: 1px solid white !important;
+    background-color: rgb(25, 25, 25) !important;
+}
